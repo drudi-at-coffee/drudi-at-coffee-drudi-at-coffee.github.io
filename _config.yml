@@ -40,12 +40,16 @@ comments: false
 # Build settings
 # theme: jekyll-whiteglass
 # remote-theme: jekyll-whiteglass
-remote-theme: whiteglass
+# remote-theme: whiteglass
+# remote_theme: pages-themes/architect@v0.2.0
+remote_theme: yous/whiteglass
+
 plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
-
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
