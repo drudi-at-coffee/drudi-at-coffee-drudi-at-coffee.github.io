@@ -38,11 +38,11 @@ google_analytics:
 comments: false
 
 # Build settings
-theme: jekyll-whiteglass
+# theme: jekyll-whiteglass
 # remote-theme: jekyll-whiteglass
 # remote-theme: whiteglass
-# remote_theme: pages-themes/architect@v0.2.0
-remote_theme: yous/whiteglass
+ remote_theme: pages-themes/architect@v0.2.0
+# remote_theme: yous/whiteglass
 
 plugins:
   - jekyll-archives
