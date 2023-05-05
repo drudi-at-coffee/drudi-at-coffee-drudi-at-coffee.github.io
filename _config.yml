@@ -64,8 +64,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-exclude:
-  - README.md
+#exclude:
+#  - README.md
 
 # Outputting
 permalink: /:year/:month/:day/:title/
